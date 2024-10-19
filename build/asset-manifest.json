@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca6133c3.css",
+    "main.js": "/static/js/main.58b36e61.js",
+    "static/media/HandBag.png": "/static/media/HandBag.90713f620dca3f193b91.png",
+    "static/media/Bottle.png": "/static/media/Bottle.927400b654743c8364f1.png",
+    "static/media/Basket.png": "/static/media/Basket.b512cd36e69b9327d9d5.png",
+    "static/media/Candle.png": "/static/media/Candle.f6fea663e6bc2e8694c4.png",
+    "static/media/Vasels.png": "/static/media/Vasels.305c965f2b015da440d9.png",
+    "static/media/Diya.png": "/static/media/Diya.14ba9669430e31cfc603.png",
+    "static/media/Mugs.png": "/static/media/Mugs.25b46797ddaeb92b5800.png",
+    "static/media/Vase.png": "/static/media/Vase.49c9c84b6ce06b8a9fc2.png",
+    "index.html": "/index.html",
+    "main.ca6133c3.css.map": "/static/css/main.ca6133c3.css.map",
+    "main.58b36e61.js.map": "/static/js/main.58b36e61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca6133c3.css",
+    "static/js/main.58b36e61.js"
+  ]
+}
